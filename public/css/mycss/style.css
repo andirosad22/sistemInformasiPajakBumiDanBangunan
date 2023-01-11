@@ -1,0 +1,48 @@
+
+@media(max-width:576px){
+    .hpnotampil{
+        display: none;
+        background: #000;
+    }
+}
+
+
+/* signin */
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .form-registration input{
+    border-radius: 0;
+    margin-bottom: -1px;
+  }
+  .bg-lineargradien1{
+    background: linear-gradient(#79DAE8,#2155CD);
+    color: #fff;
+  }
+  .bg-lineargradien2{
+    background: linear-gradient(#F806CC,#2E0249);
+    color: #fff;
+  }
+  .bg-lineargradien3{
+    background: linear-gradient(#ffb303,#523a02);
+    color: #fff;
+  }
+  .bg-lineargradien4{
+    background: linear-gradient(#ff1a1a,#460303);
+    color: #fff;
+  }
+  /* akhir dari sign in */
